@@ -22,6 +22,6 @@
     - restart nginx
 
   #- name: restart nginx
-   # ansible.builtin.service:
-    # name: nginx
-     #state: restarted
+  # ansible.builtin.service:
+  #  name: nginx
+  #  state: restarted
